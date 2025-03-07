@@ -1,6 +1,6 @@
-# Vehicle Detection with YOLOv8
+# Vehicle Detection with YOLOv12
 
-This is a real-time vehicle detection application built with YOLOv8 and Gradio. It allows you to upload videos and visualize vehicle detections using a fine-tuned YOLOv8 model.
+This is a real-time vehicle detection application built with YOLOv12 and Gradio. It allows you to upload videos and visualize vehicle detections using a fine-tuned YOLOv8 model.
 
 ## Features
 
@@ -52,7 +52,3 @@ This application can be easily deployed to Hugging Face Spaces:
 
 MIT
 
-## Acknowledgments
-
-- [Ultralytics](https://github.com/ultralytics/ultralytics) for the YOLOv8 implementation
-- [Gradio](https://www.gradio.app/) for the web interface framework
